@@ -1,0 +1,6 @@
+token=NTg0NTM1MTgyMjg0MTYxMDM0.XPMU2g.U23y8L9GQpBM5ko_tNhM_K3skVI
+owner=567694723679125514  
+prefix=1
+game=Dgymnasium.
+stayinchannel=true
+songinstatus=true
